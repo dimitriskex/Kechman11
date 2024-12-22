@@ -1,11 +1,10 @@
-# Hi there, I'm Dimitris Kechagioglou 👋
+# Hi there! 👋
+
+I'm Dimitris Kechagioglou, a student of Digital Systems at the University of Piraeus 🎓.
+
+- 🌱 I’m currently learning: Python
+- 🛠️ Tools I use: Wireshark, Vscode, Eclipse
+- 📫 Reach me at: kechagiogloudimitris@gmail.com
 
 
-## About Me
-- 📚 Studying **Digital Systems** at University of Piraeus
-- 💻 Favourite languages: **Python, HTML, CSS**
-
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/dimitris-kechagioglou-ab837420a/)
-- [Email](kechagiogloudimitris@gmail.com@example.com)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimitriskex&show_icons=true&theme=dark)
